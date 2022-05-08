@@ -1,4 +1,4 @@
 he said it :P
 
-[[tweet.png]]
+![](https://github.com/neocho/hello/blob/master/tweet.png)
 
